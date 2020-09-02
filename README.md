@@ -1,8 +1,14 @@
 # tableau
 # I am trying to build some tableau projects here
-# 1. All causes by age and gender
-# 2. Military and weapon analysis
-# 3. TESLA Stocks
-# 4. Artist and songs by country
+# 1. Deaths by age and gender
+# 2. Covid cases by race
+# 3. Military by countries I
+# 4. Military by countries II
+# 5. Weapons by countries
+# 6. Military and weapon analysis
+# 7. TESLA Stocks Profit and loss
+# 8. TESLA Stocks Price Per day
+# 9. Artist by country
+# 10. Songs by country
 
-<iframe seamless frameborder="0" src="https://public.tableau.com/profile/john2667#!/vizhome/AllCausesbyAgeandGender/Sheet2?:embed=yes&:display_count=yes&:showVizHome=no" width = '650' height = '450' scrolling='yes' ></iframe>    
+# You can go to   
