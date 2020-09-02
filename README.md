@@ -8,9 +8,9 @@
 # 6. Military and weapon analysis
 # 7. TESLA Stocks Profit and loss
 # 8. TESLA Stocks Price Per day
-# 9. Artist by country
+# [9. Artist by country]
+[Lets go to Quora](https://public.tableau.com/profile/john2667#!/vizhome/ArtistByCountry/ArtistByCountry)
 # 10. Songs by country
 
-# You can go to  product.html file and you can see above projects 
-#[link text itself]: http://www.reddit.com
-[Lets go to Quora](https://www.quora.com)
+# You can also see by going to  product.html file and source code would be available in tableau project folder.
+
